@@ -1,1 +1,2 @@
 Writing lines in a txt file.
+New text added on a different branch.
